@@ -1,16 +1,17 @@
-## Hi there 👋
+## Alberto Leal
+- 🔭 Saindo do Bar pra programar.
+- 🌱 Aprimorando Python na DIO.
+- 📫 https://wa.me/5521971080960
+- 😄 Pronouns: ele / dele
 
-<!--
-**Leal-Lab/Leal-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ![Leal-Lab's Stats](https://github-readme-stats.vercel.app/api?username=Leal-Lab&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-Here are some ideas to get you started:
+![Leal-Lab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leal-Lab&theme=dracula&hide_border=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Leal-Lab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leal-Lab&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Arch, py, vscodium, html, css, js" />
+  </a>
+</p>
